@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">TodoApp</string>
+    <string name="menu_home_label">Home</string>
+    <string name="menu_calender_label">Calender</string>
+    <string name="menu_focus_label">Focus</string>
+    <string name="menu_profile_label">Profile</string>
 </resources>
